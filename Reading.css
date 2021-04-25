@@ -1,0 +1,27 @@
+#Image {
+    height: 250px;
+    width: 300px;
+    border-color: darkgoldenrod;
+    border-width: 7px;
+    border-style: inset;
+}
+
+body {
+    text-align: center;
+    background-color:goldenrod;
+}
+
+#Title {
+    font-family: 'Comfortaa', cursive;
+}
+
+#Tui {
+    width: 150px;
+        height: 200px;
+    
+}
+
+#Rick {
+    width: 150px;
+    height: 200px;
+}
